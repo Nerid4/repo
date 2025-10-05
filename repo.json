@@ -12,11 +12,11 @@
       "Changelog": "Ajout du tri par rôle + option Moi d'abord, refresh auto.",
       "DownloadLinkInstall": "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip",
       "DownloadLinkUpdate":  "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip",
-      "IconUrl": "https://raw.githubusercontent.com/Nerid4/DELVUI/main/icon.png",
       "Tags": ["UI"]
     }
   ]
 }
+
 
 
 
