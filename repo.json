@@ -1,5 +1,4 @@
 {
-  "Plugins": [
     {
       "Author": "Nerid4",
       "Name": "NeridaUI",
@@ -20,8 +19,8 @@
       "DownloadLinkInstall": "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip",
       "DownloadLinkUpdate":  "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip"
     }
-  ]
 }
+
 
 
 
