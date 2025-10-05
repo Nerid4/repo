@@ -10,11 +10,12 @@
       "DalamudApiLevel": 13,
       "RepoUrl": "https://github.com/Nerid4/repo",
       "Changelog": "Ajout du tri par rôle + option Moi d'abord, refresh auto.",
-      "DownloadLinkInstall": "https://github.com/Nerid4/DELVUI/releases/tag/DELVUI",
-      "DownloadLinkUpdate":  "https://github.com/Nerid4/DELVUI/releases/tag/DELVUI",
+      "DownloadLinkInstall": "https://github.com/Nerid4/repo/releases/tag/DELVUI",
+      "DownloadLinkUpdate":  "https://github.com/Nerid4/repo/releases/tag/DELVUI",
       "IconUrl": "https://raw.githubusercontent.com/Nerid4/DELVUI/main/icon.png",
       "Tags": ["UI"]
     }
   ]
 }
+
 
