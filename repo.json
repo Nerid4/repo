@@ -2,20 +2,27 @@
   "Plugins": [
     {
       "Author": "Nerid4",
-      "Name": "DelvUI",
+      "Name": "NeridaUI",
       "Punchline": "Party list sorting + refresh.",
       "Description": "DelvUI fork avec tri configurable (PutSelfFirst, ordre des rôles).",
-      "InternalName": "DelvUI",
-      "AssemblyVersion": "2.5.1.2",
+      "InternalName": "NeridaUI",
+      "AssemblyVersion": "1.0",
       "DalamudApiLevel": 13,
       "RepoUrl": "https://github.com/Nerid4/repo",
       "Changelog": "Ajout du tri par rôle + option Moi d'abord, refresh auto.",
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
       "DownloadLinkInstall": "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip",
-      "DownloadLinkUpdate":  "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip",
-      "Tags": ["UI"]
+      "DownloadLinkUpdate":  "https://github.com/Nerid4/repo/releases/download/DELVUI/DelvUI.zip"
     }
   ]
 }
+
 
 
 
